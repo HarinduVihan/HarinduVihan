@@ -8,7 +8,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HarinduVihan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=great-gatsby&hide_border=true" height="150" alt="languages graph"  />
   <div align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=HarinduVihan&theme=dracula&column=4&row=3&margin-w=2&margin-h=1&no-frame=true&no-bg=true" alt="trophy graph" />
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=HarinduVihan&theme=tokyo-night&"/>
    </div>
 </div>
 
@@ -18,6 +17,10 @@
 
 <div align="center">
   <img height="235" src="https://wallpaperaccess.com/full/8030187.jpg"  />
+</div>
+
+<div alighn="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=HarinduVihan&theme=tokyo-night&"/>
 </div>
 
 ###

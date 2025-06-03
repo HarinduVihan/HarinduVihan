@@ -78,9 +78,12 @@
 
 <img src="https://raw.githubusercontent.com/HarinduVihan/HarinduVihan/output/snake.svg" alt="Snake animation" />
 
+<!---![@Harindu-gru #30NitesOfCode](https://www.codedex.io/api/petStatus?user=Harindu)--->
+
 ###
 
 <div align="center">
+  <h3>Stalkers</h3>
   <img src="https://profile-counter.glitch.me/HarinduVihan/count.svg?"  />
 </div>
 

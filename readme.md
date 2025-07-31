@@ -87,5 +87,6 @@
 <div align="center">
   <h3>Stalkers</h3>
   <img src="https://profile-counter.glitch.me/HarinduVihan/count.svg?"  />
+<!--   <img src="https://komarev.com/ghpvc/?username=HarinduVihan&label=Stalkers&color=2ec27e&style=for-the-badge" alt="HarinduVihan" /> -->
 </div>
 

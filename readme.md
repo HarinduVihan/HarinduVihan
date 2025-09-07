@@ -1,8 +1,9 @@
 <h2 align="left">Hi 👋! My name is Harindu Vihan</h2>
 
 <!-- HTML -->
+<!--
 <img src="./kaggle-badges/CompetitionsRank/plastic-black.svg" />
-<img src="./kaggle-plates/Competitions/white.svg" />
+<img src="./kaggle-plates/Competitions/white.svg" />  -->
 
 ###
 

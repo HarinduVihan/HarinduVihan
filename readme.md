@@ -114,7 +114,8 @@
 
 <div align="center">
   <h3>Stalkers</h3>
-  <img src="https://profile-counter.glitch.me/HarinduVihan/count.svg?"  />
-<!--   <img src="https://komarev.com/ghpvc/?username=HarinduVihan&label=Stalkers&color=2ec27e&style=for-the-badge" alt="HarinduVihan" /> -->
+  <img src="https://profile-counter.deno.dev/HarinduVihan/count.svg" alt="Visitor Count" />
+  <img src="https://komarev.com/ghpvc/?username=HarinduVihan&label=Stalkers&color=2ec27e&style=for-the-badge" alt="HarinduVihan" width="0" height="0" />  <!--- hidden by width="0" height="0" --->
 </div>
+
 

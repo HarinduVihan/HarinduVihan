@@ -19,6 +19,7 @@
   <div align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=HarinduVihan&theme=dracula&column=4&row=3&margin-w=2&margin-h=1&no-frame=true&no-bg=true" alt="trophy graph" />
     <img src="https://github-contributor-stats.vercel.app/api?username=HarinduVihan&limit=5&theme=dracula&combine_all_yearly_contributions=true" alt="GitHub Contributor Stats">
+    <img height="235" src="https://wallpaperaccess.com/full/8030187.jpg"  />
    </div>
 </div>
 
@@ -28,7 +29,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="235" src="https://wallpaperaccess.com/full/8030187.jpg"  />
+  
 </div>
 
 <div alighn="center">

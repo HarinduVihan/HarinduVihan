@@ -13,9 +13,12 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HarinduVihan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=great-gatsby&hide_border=true" height="150" alt="languages graph"  />
   <div align="center">
     <img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/top-langs/?username=HarinduVihan&theme=great-gatsby&hide_border=false&no-bg=true&no-frame=true&langs_count=6"></td></tr></tbody></table>
+
+
    </div>      
   <div align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=HarinduVihan&theme=dracula&column=4&row=3&margin-w=2&margin-h=1&no-frame=true&no-bg=true" alt="trophy graph" />
+    <img src="https://github-contributor-stats.vercel.app/api?username=HarinduVihan&limit=5&theme=dracula&combine_all_yearly_contributions=true" alt="GitHub Contributor Stats">
    </div>
 </div>
 

@@ -8,27 +8,46 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HarinduVihan&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=great-gatsby&locale=en&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=HarinduVihan&locale=en&mode=daily&theme=great-gatsby&hide_border=true&border_radius=5" height="150" alt="streak graph" />
+<table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=HarinduVihan&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=great-gatsby&locale=en&hide_border=true" height="150" alt="stats graph"  />
+      </td>
+      <td>
+        <img src="https://streak-stats.demolab.com?user=HarinduVihan&locale=en&mode=daily&theme=great-gatsby&hide_border=true&border_radius=5" height="150" alt="streak graph" />
+      </td>
+    </tr>
+</table>
 </div>
 
 <div align=center>
-    <div style="display: flex; flex-direction: column; align-items: center;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HarinduVihan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=great-gatsby&hide_border=true" height="150" alt="languages graph"  />
-      <img src="https://github-profile-trophy.vercel.app/?username=HarinduVihan&theme=dracula&column=4&row=3&margin-w=2&margin-h=1&no-frame=true&no-bg=true" alt="trophy graph" />  
-    </div> 
-    <img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/top-langs/?username=HarinduVihan&theme=great-gatsby&hide_border=false&no-bg=true&no-frame=true&langs_count=6">
+<table>
+  <tr>
+    <td>
+      <div align=center>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HarinduVihan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=great-gatsby&hide_border=true" height="150" alt="Languages Graph" />
+      </div>
+      <img src="https://github-profile-trophy.vercel.app/?username=HarinduVihan&theme=dracula&column=4&row=3&margin-w=2&margin-h=1&no-frame=true&no-bg=true" alt="Trophy Graph" />
+    </td>
+    <td>
+      <img src="https://readme-stats-fork-mauve.vercel.app/api/top-langs/?username=HarinduVihan&theme=great-gatsby&hide_border=false&no-bg=true&no-frame=true&langs_count=6" alt="Top Languages Graph" />
+    </td>
+  </tr>
+</table>
 </div>
 
 <div align=center>
+<table>
+  <tr>
+   <td>
     <img src="https://github-contributor-stats.vercel.app/api?username=HarinduVihan&limit=5&theme=dracula&combine_all_yearly_contributions=true" alt="GitHub Contributor Stats">
-    <img height="235" src="https://wallpaperaccess.com/full/8030187.jpg"  />
+   </td>
+   <td>
+     <img height="235" src="https://wallpaperaccess.com/full/8030187.jpg"  />
+   </td>
+  </tr>   
+</table>
 </div>
-  
-     
-
-</div>
-
 
 ###
 

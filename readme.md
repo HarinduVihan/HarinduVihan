@@ -26,12 +26,6 @@
 
 ###
 
-<br clear="both">
-
-<div align="center">
-  
-</div>
-
 <div alighn="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=HarinduVihan&theme=tokyo-night&"/>
 </div>

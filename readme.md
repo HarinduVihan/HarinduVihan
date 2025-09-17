@@ -40,7 +40,7 @@
 <table>
   <tr>
    <td>
-    <img src="https://github-contributor-stats.vercel.app/api?username=HarinduVihan&limit=5&theme=dracula&combine_all_yearly_contributions=true" alt="GitHub Contributor Stats">
+    <img src="https://github-contributor-stats.vercel.app/api?username=HarinduVihan&limit=5&theme=great-gatsby&combine_all_yearly_contributions=true" alt="GitHub Contributor Stats">
    </td>
    <td>
      <img height="235" src="https://wallpaperaccess.com/full/8030187.jpg"  />

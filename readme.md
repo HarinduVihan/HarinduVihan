@@ -1,6 +1,6 @@
 <div align="center">
-  <img align="right" width="120" src="https://wallpaperaccess.com/full/8030187.jpg" alt="Wallpaper" />
-  <img src="./assets/hero.svg" width="80%" alt="Harindu Vihan — Undergraduate Software Engineer" />
+  
+  <img src="./assets/hero.svg" width="100%" alt="Harindu Vihan — Undergraduate Software Engineer" />
 </div>
 
 <br clear="both">
@@ -10,7 +10,7 @@
 </div>
 
 ## Hi 👋! Harindu Vihan here
-
+<img align="left" width="120" src="https://wallpaperaccess.com/full/8030187.jpg" alt="Wallpaper" />
 <img align="right" width="180" src="https://i.imgflip.com/65efzo.gif" alt="Coding animation" />
 
 I’m an undergraduate software engineer at **NIBM, Sri Lanka**, building full-stack applications with React, Java, C#, and Python. I enjoy turning coursework into working products, exploring machine learning, and automating the small things that make a big difference.

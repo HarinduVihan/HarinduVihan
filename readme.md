@@ -1,114 +1,126 @@
-<h2 align="left">Hi 👋! My name is Harindu Vihan</h2>
-
-<!-- HTML -->
-
-<!-- <img src="./kaggle-badges/CompetitionsRank/plastic-black.svg" /> -->
-<!-- <img src="./kaggle-plates/Competitions/white.svg" /> -->
-
-###
-
 <div align="center">
-<table>
-    <tr>
-      <td>
-        <img src="https://github-stats-extended.vercel.app/api?username=HarinduVihan&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=great-gatsby&locale=en&hide_border=true" height="150" alt="stats graph"  />
-      </td>
-      <td>
-        <img src="https://streak-stats.demolab.com?user=HarinduVihan&locale=en&mode=daily&theme=great-gatsby&hide_border=true&border_radius=5" height="150" alt="streak graph" />
-      </td>
-    </tr>
-</table>
+  <img align="right" width="220" src="https://wallpaperaccess.com/full/8030187.jpg" alt="Wallpaper" />
+  <img src="./assets/hero.svg" width="75%" alt="Harindu Vihan — Undergraduate Software Engineer" />
 </div>
-
-<div align="center">
-<table>
-  <tr>
-    <td>
-      <img src="https://github-stats-extended.vercel.app/api/top-langs?username=HarinduVihan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=great-gatsby&hide_border=true" height="150" alt="Languages Graph" />
-    </td>
-    <td>
-      <img src="https://github-profile-svg.vercel.app/api/profile?username=HarinduVihan&mode=glass&theme=dark" width="420" alt="GitHub trophies" />
-    </td>
-  </tr>
-</table>
-</div>
-
-<div align=center>
-<table>
-  <tr>
-   <td>
-     <img src="https://github-stats-extended.vercel.app/api?username=HarinduVihan&show_icons=true&theme=great-gatsby&hide_border=true&show=prs_merged,prs_reviewed,issues,commits" alt="GitHub Contributor Stats">
-   </td>
-   <td>
-     <img height="235" src="https://wallpaperaccess.com/full/8030187.jpg" alt="Wallpaper" />
-   </td>
-  </tr>   
-</table>
-</div>
-
-###
-
-<div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=HarinduVihan&theme=tokyo-night" alt="GitHub activity graph" />
-</div>
-
-###
 
 <br clear="both">
 
-<img align="right" height="200" src="https://i.imgflip.com/65efzo.gif"  />
-
-###
-
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" alt="" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" alt="" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" alt="" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" alt="" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" alt="" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-  <img width="12" alt="" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
-  <img width="12" alt="" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" alt="" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" alt="" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg" height="30" alt="tomcat logo"  />
-  <img width="12" alt="" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
-  <img width="12" alt="" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="30" alt="visualstudio logo"  />
-  <img width="12" alt="" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="30" alt="intellij logo"  />
-  <img width="12" alt="" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img src="./assets/divider.svg" width="100%" alt="" />
 </div>
 
-###
+## <h2 align="left">Hi 👋! Harindu Vihan here</h2>
 
-<div align="center">
-  <a href="https://www.youtube.com/@HVenom" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  /></a>
-  <a href="https://www.instagram.com/harindu_vihan" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  /></a>
-  <a href="mailto:harinduvihan@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /></a>
-  <a href="https://www.linkedin.com/in/harindu-vihan" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a>
-  <a href="https://www.kaggle.com/harinduvihan" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/static/v1?message=Kaggle&logo=kaggle&label=&color=20BEFF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="kaggle logo"  /></a>
-</div>
+<img align="right" width="180" src="https://i.imgflip.com/65efzo.gif" alt="Coding animation" />
 
-###
+I’m an undergraduate software engineer at **NIBM, Sri Lanka**, building full-stack applications with React, Java, C#, and Python. I enjoy turning coursework into working products, exploring machine learning, and automating the small things that make a big difference.
+
+**Currently:** building full-stack apps · learning Spring Boot, Docker & cloud · exploring ML
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/HarinduVihan/HarinduVihan/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <!-- Kaggle tier and medal badges — generated by .github/workflows/kaggle-badges.yml -->
+  <!-- <img src="./kaggle-badges/CompetitionsRank/plastic-black.svg" alt="Kaggle competitions rank" /> -->
+  <!-- <img src="./kaggle-plates/Competitions/white.svg" alt="Kaggle competition medals" /> -->
+</div>
 
-<!---![@Harindu-gru #30NitesOfCode](https://www.codedex.io/api/petStatus?user=Harindu)--->
+## Stats
 
-###
+<div align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=HarinduVihan&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=great-gatsby&locale=en&hide_border=true" height="150" alt="GitHub stats" />
+  <img src="https://streak-stats.demolab.com?user=HarinduVihan&locale=en&mode=daily&theme=great-gatsby&hide_border=true&border_radius=5" height="150" alt="GitHub streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=HarinduVihan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=great-gatsby&hide_border=true" height="150" alt="Top languages" />
+  <img src="https://github-profile-svg.vercel.app/api/profile?username=HarinduVihan&mode=glass&theme=dark" width="420" alt="GitHub trophies" />
+</div>
+
+<div align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=HarinduVihan&show_icons=true&theme=great-gatsby&hide_border=true&show=prs_merged,prs_reviewed,issues,commits" height="210" alt="GitHub contribution stats" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HarinduVihan&theme=tokyo-night" width="100%" alt="GitHub activity graph" />
+</div>
+
+<div align="center">
+  <img src="./assets/divider.svg" width="100%" alt="" />
+</div>
+
+## Stack
+
+### Frontend
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="28" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="28" alt="TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="28" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="28" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="28" alt="CSS3" />
+</div>
+
+### Backend & Data
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="28" alt="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="28" alt="C#" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="28" alt="C" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="28" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="28" alt="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg" height="28" alt="Tomcat" />
+</div>
+
+### Tools
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="28" alt="VS Code" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="28" alt="Visual Studio" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="28" alt="IntelliJ IDEA" />
+</div>
+
+<div align="center">
+  <img src="./assets/divider.svg" width="100%" alt="" />
+</div>
+
+## Featured Projects
+
+<div align="center">
+  <a href="https://github.com/HarinduVihan/ChannelGrowth-Custom-YouTube-Dashboard" target="_blank" rel="noopener noreferrer">
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=HarinduVihan&repo=ChannelGrowth-Custom-YouTube-Dashboard&theme=great-gatsby&hide_border=true" width="300" alt="YouTube channel growth dashboard" />
+  </a>
+  <a href="https://github.com/HarinduVihan/Schizophrenia-Detection-via-Actigraphy-Circadian-Rhythm-Modeling" target="_blank" rel="noopener noreferrer">
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=HarinduVihan&repo=Schizophrenia-Detection-via-Actigraphy-Circadian-Rhythm-Modeling&theme=great-gatsby&hide_border=true" width="300" alt="Schizophrenia detection from actigraphy data" />
+  </a>
+  <a href="https://github.com/HarinduVihan/BreastCancerPrediction" target="_blank" rel="noopener noreferrer">
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=HarinduVihan&repo=BreastCancerPrediction&theme=great-gatsby&hide_border=true" width="300" alt="Breast cancer prediction model" />
+  </a>
+</div>
+
+<div align="center">
+  <img src="./assets/divider.svg" width="100%" alt="" />
+</div>
+
+## Elsewhere
+
+<div align="center">
+  <a href="https://www.youtube.com/@HVenom" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="YouTube" /></a>
+  <a href="https://www.instagram.com/harindu_vihan" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Instagram" /></a>
+  <a href="mailto:harinduvihan@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail" /></a>
+  <a href="https://www.linkedin.com/in/harindu-vihan" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn" /></a>
+  <a href="https://www.kaggle.com/harinduvihan" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/static/v1?message=Kaggle&logo=kaggle&label=&color=20BEFF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Kaggle" /></a>
+</div>
+
+<div align="center">
+  <img src="./assets/divider.svg" width="100%" alt="" />
+</div>
+
+## Activity
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/HarinduVihan/HarinduVihan/output/snake.svg" alt="GitHub contribution snake animation" />
+</div>
 
 <div align="center">
   <!-- <h3>Stalkers</h3> -->

@@ -38,7 +38,7 @@ I’m an undergraduate software engineer at **NIBM, Sri Lanka**, building full-s
 
 <div align="center">
    <!-- <img src="https://github-stats-extended.vercel.app/api?username=HarinduVihan&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=great-gatsby&locale=en&hide_border=true" height="150" alt="GitHub stats" /> -->
-  <img src="https://github-profile-svg.vercel.app/api/profile?username=HarinduVihan&mode=glass&theme=dark" width="420" alt="GitHub trophies" />
+  <img src="https://github-profile-svg.vercel.app/api/profile?username=HarinduVihan&mode=glass&theme=dark" width="100%" alt="GitHub trophies" />
 </div>
 
 <div align="center">

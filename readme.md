@@ -1,5 +1,5 @@
 <div align="center">
-  <img align="right" width="220" src="https://wallpaperaccess.com/full/8030187.jpg" alt="Wallpaper" />
+  <img align="right" width="120" src="https://wallpaperaccess.com/full/8030187.jpg" alt="Wallpaper" />
   <img src="./assets/hero.svg" width="75%" alt="Harindu Vihan — Undergraduate Software Engineer" />
 </div>
 

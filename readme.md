@@ -10,6 +10,7 @@
 </div>
 
 ## Hi 👋! Harindu Vihan here
+
 <img align="left" width="130" src="https://wallpaperaccess.com/full/8030187.jpg" alt="Wallpaper" />
 <img align="right" width="180" src="https://i.imgflip.com/65efzo.gif" alt="Coding animation" />
 
@@ -91,6 +92,10 @@ I’m an undergraduate software engineer at **NIBM, Sri Lanka**, building full-s
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="28" alt="Git" title="Git" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="28" alt="GitHub" title="GitHub" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="28" alt="Docker" title="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="28" alt="VS Code" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="28" alt="Visual Studio" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="28" alt="IntelliJ IDEA" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg" height="28" alt="Tomcat" />
 </div>
 
 <div align="center">

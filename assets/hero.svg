@@ -1,0 +1,73 @@
+<svg width="1200" height="260" viewBox="0 0 1200 260" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Harindu Vihan</title>
+  <desc id="desc">Undergraduate software engineer and full-stack developer from Sri Lanka</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="260" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0B1220"/>
+      <stop offset="0.55" stop-color="#0D1117"/>
+      <stop offset="1" stop-color="#11152B"/>
+    </linearGradient>
+    <linearGradient id="border" x1="0" y1="0" x2="1200" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#20BEFF" stop-opacity="0.9"/>
+      <stop offset="0.5" stop-color="#96508E" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#20BEFF" stop-opacity="0.1"/>
+    </linearGradient>
+    <radialGradient id="glowCyan" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1010 40) rotate(135) scale(320)">
+      <stop stop-color="#20BEFF" stop-opacity="0.28"/>
+      <stop offset="1" stop-color="#20BEFF" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowPurple" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1120 250) rotate(180) scale(340)">
+      <stop stop-color="#96508E" stop-opacity="0.3"/>
+      <stop offset="1" stop-color="#96508E" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="accent" x1="48" y1="46" x2="48" y2="214" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#20BEFF"/>
+      <stop offset="1" stop-color="#96508E"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="260" rx="18" fill="url(#bg)"/>
+  <rect x="0.5" y="0.5" width="1199" height="259" rx="17.5" stroke="url(#border)"/>
+  <circle cx="1010" cy="40" r="320" fill="url(#glowCyan)"/>
+  <circle cx="1120" cy="250" r="340" fill="url(#glowPurple)"/>
+
+  <g opacity="0.1" stroke="#C9D1D9" stroke-width="1">
+    <path d="M760 0V260"/>
+    <path d="M860 0V260"/>
+    <path d="M960 0V260"/>
+    <path d="M1060 0V260"/>
+    <path d="M1160 0V260"/>
+    <path d="M700 52H1200"/>
+    <path d="M700 104H1200"/>
+    <path d="M700 156H1200"/>
+    <path d="M700 208H1200"/>
+  </g>
+
+  <rect x="48" y="46" width="6" height="168" rx="3" fill="url(#accent)"/>
+
+  <text x="74" y="60" fill="#20BEFF" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="13" font-weight="700" letter-spacing="3">PROFILE / 2026</text>
+  <text x="72" y="126" fill="#F0F6FC" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="58" font-weight="700" letter-spacing="-1">Harindu Vihan</text>
+  <text x="74" y="162" fill="#C9D1D9" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="20">Undergraduate Software Engineer · Full-Stack Developer</text>
+  <text x="74" y="190" fill="#8B949E" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="15">Gampaha, Sri Lanka</text>
+
+  <g font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="13" font-weight="600">
+    <rect x="74" y="210" width="78" height="28" rx="14" fill="#20BEFF" fill-opacity="0.12" stroke="#20BEFF" stroke-opacity="0.5"/>
+    <text x="113" y="228" fill="#20BEFF" text-anchor="middle">React</text>
+    <rect x="162" y="210" width="70" height="28" rx="14" fill="#20BEFF" fill-opacity="0.12" stroke="#20BEFF" stroke-opacity="0.5"/>
+    <text x="197" y="228" fill="#20BEFF" text-anchor="middle">Java</text>
+    <rect x="242" y="210" width="70" height="28" rx="14" fill="#20BEFF" fill-opacity="0.12" stroke="#20BEFF" stroke-opacity="0.5"/>
+    <text x="277" y="228" fill="#20BEFF" text-anchor="middle">C#</text>
+    <rect x="322" y="210" width="86" height="28" rx="14" fill="#20BEFF" fill-opacity="0.12" stroke="#20BEFF" stroke-opacity="0.5"/>
+    <text x="365" y="228" fill="#20BEFF" text-anchor="middle">Python</text>
+    <rect x="418" y="210" width="116" height="28" rx="14" fill="#96508E" fill-opacity="0.18" stroke="#96508E" stroke-opacity="0.6"/>
+    <text x="476" y="228" fill="#D2A8D0" text-anchor="middle">Kaggle Contributor</text>
+  </g>
+
+  <g transform="translate(842 92)">
+    <rect width="286" height="76" rx="12" fill="#0D1117" fill-opacity="0.72" stroke="#30363D"/>
+    <circle cx="28" cy="38" r="9" fill="#20BEFF" fill-opacity="0.18"/>
+    <circle cx="28" cy="38" r="4" fill="#20BEFF"/>
+    <text x="50" y="34" fill="#F0F6FC" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="16" font-weight="700">Open to collaborate</text>
+    <text x="50" y="55" fill="#8B949E" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="13">Full-stack · ML · Automation</text>
+  </g>
+</svg>

@@ -9,7 +9,7 @@
   <img src="./assets/divider.svg" width="100%" alt="" />
 </div>
 
-## About
+## <h2 align="left">Hi 👋! Harindu Vihan here</h2>
 
 <img align="right" width="180" src="https://i.imgflip.com/65efzo.gif" alt="Coding animation" />
 

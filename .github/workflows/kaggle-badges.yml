@@ -1,63 +1,63 @@
-name: Kaggle Badges
+# name: Kaggle Badges
 
-on:
-  push:
-    branches:
-      - main
-  schedule:
-    # 11:11 UTC every day
-    - cron: "11 11 * * *"
-  workflow_dispatch:
+# on:
+#   push:
+#     branches:
+#       - main
+#   schedule:
+#     # 11:11 UTC every day
+#     - cron: "11 11 * * *"
+#   workflow_dispatch:
 
-concurrency:
-  group: kaggle-badges
-  cancel-in-progress: true
+# concurrency:
+#   group: kaggle-badges
+#   cancel-in-progress: true
 
-env:
-  KAGGLE_USERNAME: harinduvihan
-  BADGE_API: https://road-to-kaggle-grandmaster.vercel.app/api
+# env:
+#   KAGGLE_USERNAME: harinduvihan
+#   BADGE_API: https://road-to-kaggle-grandmaster.vercel.app/api
 
-jobs:
-  create-badges:
-    permissions:
-      contents: write
-    runs-on: ubuntu-latest
-    timeout-minutes: 10
+# jobs:
+#   create-badges:
+#     permissions:
+#       contents: write
+#     runs-on: ubuntu-latest
+#     timeout-minutes: 10
 
-    steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
+#     steps:
+#       - name: Checkout repository
+#         uses: actions/checkout@v4
 
-      - name: Download generated Kaggle badges
-        run: |
-          set -euo pipefail
-          mkdir -p kaggle-badges/CompetitionsRank kaggle-plates/Competitions
-          curl -fsSL --retry 3 --retry-delay 5 \
-            "$BADGE_API/simple/$KAGGLE_USERNAME" \
-            -o kaggle-badges/CompetitionsRank/plastic-black.svg
-          curl -fsSL --retry 3 --retry-delay 5 \
-            "$BADGE_API/badges/$KAGGLE_USERNAME/competition/light" \
-            -o kaggle-plates/Competitions/white.svg
+#       - name: Download generated Kaggle badges
+#         run: |
+#           set -euo pipefail
+#           mkdir -p kaggle-badges/CompetitionsRank kaggle-plates/Competitions
+#           curl -fsSL --retry 3 --retry-delay 5 \
+#             "$BADGE_API/simple/$KAGGLE_USERNAME" \
+#             -o kaggle-badges/CompetitionsRank/plastic-black.svg
+#           curl -fsSL --retry 3 --retry-delay 5 \
+#             "$BADGE_API/badges/$KAGGLE_USERNAME/competition/light" \
+#             -o kaggle-plates/Competitions/white.svg
 
-      - name: Verify downloaded SVGs
-        run: |
-          set -euo pipefail
-          for file in \
-            kaggle-badges/CompetitionsRank/plastic-black.svg \
-            kaggle-plates/Competitions/white.svg
-          do
-            head -c 200 "$file" | grep -q "svg"
-            echo "OK: $file"
-          done
+#       - name: Verify downloaded SVGs
+#         run: |
+#           set -euo pipefail
+#           for file in \
+#             kaggle-badges/CompetitionsRank/plastic-black.svg \
+#             kaggle-plates/Competitions/white.svg
+#           do
+#             head -c 200 "$file" | grep -q "svg"
+#             echo "OK: $file"
+#           done
 
-      - name: Commit and push badge SVGs
-        run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
-          git add -A
-          if git diff --cached --quiet; then
-            echo "No changes to commit"
-          else
-            git commit -m "chore: update Kaggle badges [skip ci]"
-            git push
-          fi
+#       - name: Commit and push badge SVGs
+#         run: |
+#           git config --local user.email "action@github.com"
+#           git config --local user.name "GitHub Action"
+#           git add -A
+#           if git diff --cached --quiet; then
+#             echo "No changes to commit"
+#           else
+#             git commit -m "chore: update Kaggle badges [skip ci]"
+#             git push
+#           fi

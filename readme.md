@@ -1,6 +1,6 @@
 <div align="center">
-  <img align="right" width="220" src="https://wallpaperaccess.com/full/8030187.jpg" alt="Wallpaper" />
-  <img src="./assets/hero.svg" width="75%" alt="Harindu Vihan — Undergraduate Software Engineer" />
+  <img align="right" width="120" src="https://wallpaperaccess.com/full/8030187.jpg" alt="Wallpaper" />
+  <img src="./assets/hero.svg" width="80%" alt="Harindu Vihan — Undergraduate Software Engineer" />
 </div>
 
 <br clear="both">
@@ -28,17 +28,17 @@ I’m an undergraduate software engineer at **NIBM, Sri Lanka**, building full-s
 ## Stats
 
 <div align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=HarinduVihan&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=great-gatsby&locale=en&hide_border=true" height="150" alt="GitHub stats" />
   <img src="https://streak-stats.demolab.com?user=HarinduVihan&locale=en&mode=daily&theme=great-gatsby&hide_border=true&border_radius=5" height="150" alt="GitHub streak" />
-</div>
-
-<div align="center">
   <img src="https://github-stats-extended.vercel.app/api/top-langs?username=HarinduVihan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=great-gatsby&hide_border=true" height="150" alt="Top languages" />
-  <img src="https://github-profile-svg.vercel.app/api/profile?username=HarinduVihan&mode=glass&theme=dark" width="420" alt="GitHub trophies" />
 </div>
 
 <div align="center">
   <img src="https://github-stats-extended.vercel.app/api?username=HarinduVihan&show_icons=true&theme=great-gatsby&hide_border=true&show=prs_merged,prs_reviewed,issues,commits" height="210" alt="GitHub contribution stats" />
+</div>
+
+<div align="center">
+   <!-- <img src="https://github-stats-extended.vercel.app/api?username=HarinduVihan&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=great-gatsby&locale=en&hide_border=true" height="150" alt="GitHub stats" /> -->
+  <img src="https://github-profile-svg.vercel.app/api/profile?username=HarinduVihan&mode=glass&theme=dark" width="420" alt="GitHub trophies" />
 </div>
 
 <div align="center">

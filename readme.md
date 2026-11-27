@@ -123,7 +123,7 @@ I’m an undergraduate software engineer at **NIBM, Sri Lanka**, building full-s
 ## Elsewhere
 
 <div align="center">
-  <a href="https://www.youtube.com/@HVenom" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="YouTube" /></a>
+  <a href="https://www.youtube.com/@HVenom-Gaming" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="YouTube" /></a>
   <a href="https://www.instagram.com/harindu_vihan" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Instagram" /></a>
   <a href="mailto:harinduvihan@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail" /></a>
   <a href="https://www.linkedin.com/in/harindu-vihan" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn" /></a>

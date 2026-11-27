@@ -2,8 +2,8 @@
 
 <!-- HTML -->
 
-<img src="./kaggle-badges/CompetitionsRank/plastic-black.svg" />
-<img src="./kaggle-plates/Competitions/white.svg" />
+<!-- <img src="./kaggle-badges/CompetitionsRank/plastic-black.svg" /> -->
+<!-- <img src="./kaggle-plates/Competitions/white.svg" /> -->
 
 ###
 
@@ -11,7 +11,7 @@
 <table>
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=HarinduVihan&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=great-gatsby&locale=en&hide_border=true" height="150" alt="stats graph"  />
+        <img src="https://github-stats-extended.vercel.app/api?username=HarinduVihan&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=great-gatsby&locale=en&hide_border=true" height="150" alt="stats graph"  />
       </td>
       <td>
         <img src="https://streak-stats.demolab.com?user=HarinduVihan&locale=en&mode=daily&theme=great-gatsby&hide_border=true&border_radius=5" height="150" alt="streak graph" />
@@ -24,7 +24,7 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HarinduVihan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=great-gatsby&hide_border=true" height="150" alt="Languages Graph" />
+      <img src="https://github-stats-extended.vercel.app/api/top-langs?username=HarinduVihan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=great-gatsby&hide_border=true" height="150" alt="Languages Graph" />
     </td>
     <td>
       <img src="https://github-profile-svg.vercel.app/api/profile?username=HarinduVihan&mode=glass&theme=dark" width="420" alt="GitHub trophies" />
@@ -37,7 +37,7 @@
 <table>
   <tr>
    <td>
-     <img src="https://github-repository-contribution-stats.vercel.app/api?username=HarinduVihan&theme=great-gatsby" alt="GitHub Contributor Stats">
+     <img src="https://github-stats-extended.vercel.app/api?username=HarinduVihan&show_icons=true&theme=great-gatsby&hide_border=true&show=prs_merged,prs_reviewed,issues,commits" alt="GitHub Contributor Stats">
    </td>
    <td>
      <img height="235" src="https://wallpaperaccess.com/full/8030187.jpg" alt="Wallpaper" />
@@ -97,6 +97,7 @@
   <a href="https://www.instagram.com/harindu_vihan" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  /></a>
   <a href="mailto:harinduvihan@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /></a>
   <a href="https://www.linkedin.com/in/harindu-vihan" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a>
+  <a href="https://www.kaggle.com/harinduvihan" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/static/v1?message=Kaggle&logo=kaggle&label=&color=20BEFF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="kaggle logo"  /></a>
 </div>
 
 ###

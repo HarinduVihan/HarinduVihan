@@ -13,6 +13,10 @@ concurrency:
   group: kaggle-badges
   cancel-in-progress: true
 
+env:
+  KAGGLE_USERNAME: harinduvihan
+  BADGE_API: https://road-to-kaggle-grandmaster.vercel.app/api
+
 jobs:
   create-badges:
     permissions:
@@ -24,20 +28,29 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Setup Node.js
-        uses: actions/setup-node@v4
-        with:
-          node-version: "20"
+      - name: Download generated Kaggle badges
+        run: |
+          set -euo pipefail
+          mkdir -p kaggle-badges/CompetitionsRank kaggle-plates/Competitions
+          curl -fsSL --retry 3 --retry-delay 5 \
+            "$BADGE_API/simple/$KAGGLE_USERNAME" \
+            -o kaggle-badges/CompetitionsRank/plastic-black.svg
+          curl -fsSL --retry 3 --retry-delay 5 \
+            "$BADGE_API/badges/$KAGGLE_USERNAME/competition/light" \
+            -o kaggle-plates/Competitions/white.svg
 
-      - name: Install Puppeteer browser
-        run: npx puppeteer browsers install chrome@131.0.6778.85
+      - name: Verify downloaded SVGs
+        run: |
+          set -euo pipefail
+          for file in \
+            kaggle-badges/CompetitionsRank/plastic-black.svg \
+            kaggle-plates/Competitions/white.svg
+          do
+            head -c 200 "$file" | grep -q "svg"
+            echo "OK: $file"
+          done
 
-      - name: Generate Kaggle badges
-        uses: takayoshi-makabe/kaggle-badges@v1.4.0
-        with:
-          user_name: harinduvihan
-
-      - name: Commit and push generated SVG files
+      - name: Commit and push badge SVGs
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"

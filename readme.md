@@ -10,7 +10,7 @@
 </div>
 
 ## Hi 👋! Harindu Vihan here
-<img align="left" width="120" src="https://wallpaperaccess.com/full/8030187.jpg" alt="Wallpaper" />
+<img align="left" width="130" src="https://wallpaperaccess.com/full/8030187.jpg" alt="Wallpaper" />
 <img align="right" width="180" src="https://i.imgflip.com/65efzo.gif" alt="Coding animation" />
 
 I’m an undergraduate software engineer at **NIBM, Sri Lanka**, building full-stack applications with React, Java, C#, and Python. I enjoy turning coursework into working products, exploring machine learning, and automating the small things that make a big difference.
